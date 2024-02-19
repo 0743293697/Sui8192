@@ -1,4 +1,4 @@
-# SUI 8192
+Denmaa# SUI 8192
 
 A fully on-chain, extra challenging version of the popular 2048 game. Built on [Sui](https://sui.io) by [Ethos](https://ethoswallet.xyz).
 
